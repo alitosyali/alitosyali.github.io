@@ -1,1 +1,1 @@
-Content of alitosyali@github.io
+Content of alitosyali.github.io
