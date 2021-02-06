@@ -1,3 +1,1 @@
-alitosyali.github.io
-
-The website is under construction.
+Content of alitosyali@github.io
